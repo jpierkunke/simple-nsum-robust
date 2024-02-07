@@ -3,7 +3,8 @@
 # paper and online supplement.
 
 # If you haven't already generated the fb100_sims.RData file with simulation
-# results, please run the script fb100_simulate_surveys.R before running this script.
+# results, please run the script simulate_surveys_on_fb100_networks.R before
+# running this script.
 
 library(knitr)
 library(ggpubr)

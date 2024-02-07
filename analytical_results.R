@@ -24,8 +24,7 @@ textbasesize = 8
 width = 6 #inches
 height = 3.4 #inches
 # The absolute path to the folder in which you wish to save the figure output
-# fig.dir = "/your/absolute/path/here/ending/with/slash/"
-fig.dir = "~/Documents/UW/UW_Year1_Q3_Spring2021/RA-Tyler-Stanford-HT/PSU-Ian-Maggie-Le/R&R/anonymized-final-code/figures/analytical/"
+fig.dir = "/your/absolute/path/here/ending/with/slash/"
 
 # ----------- probably don't need to edit any code below this line ----------- #
 
